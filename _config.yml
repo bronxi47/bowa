@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Blockchain Oracle Witness Asociation
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://bronxi47.github.io
@@ -15,7 +15,7 @@ baseurl:          '/bowa'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'nubis & bronxi'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5

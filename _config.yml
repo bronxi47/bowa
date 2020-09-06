@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Blockchain Oracle Witness Asociation
+title:            BOWA
 tagline:          'Oracle and witness for decentralized organizations'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Oracle and witness for decentralized organizations</a>, refreshed.'
 url:              https://bronxi47.github.io
 baseurl:          '/bowa'
                   # the optional subpath of your site, e.g. "/blog"

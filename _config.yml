@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Blockchain Oracle Witness Asociation
-tagline:          'A Jekyll theme'
+tagline:          'Oracle and witness for decentralized organizations'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://bronxi47.github.io
 baseurl:          '/bowa'

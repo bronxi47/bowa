@@ -6,7 +6,7 @@
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        <img src= "favicon.png" align="left"> {{ site.title }}
+        <p><img src= "favicon.png" align="left"> {{ site.title }}</p>
       </a>
     </{% if page.layout == "index" %}h2{% else %}div{% endif %}>
      <br>

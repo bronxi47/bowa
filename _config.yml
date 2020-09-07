@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Blockchain Oracle Witness Asociation
+title:            Blockchain Oracle Witness Association
 tagline:          'Oracle and witness for decentralized organizations'
 description:      'Oracle and witness for decentralized organizations'
 url:              https://bronxi47.github.io

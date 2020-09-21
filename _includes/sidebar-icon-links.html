@@ -12,12 +12,6 @@
     </a>
   {% endif %}
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-    {% include svg/feed.svg %}
-  </a>
-  
   <a id="twitter-link"
      class="icon" title="Twitter" aria-label="Twitter"
      href="{{ site.twitter.url | relative_url }}">
@@ -46,6 +40,12 @@
      class="icon" title="Instagram" aria-label="Instagram"
      href="{{ site.instagram.url | relative_url }}">
     {% include svg/instagram.svg %}
+  </a>
+  
+  <a id="facebook-link"
+     class="icon" title="Facebook" aria-label="Facebook"
+     href="{{ site.facebook.url | relative_url }}">
+    {% include svg/facebook.svg %}
   </a> 
 
   {% comment %}

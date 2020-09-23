@@ -285,13 +285,12 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   margin-top: 1rem;
-  margin-left: 2rem;
-  margin-right: 2rem;
+  margin-left: 2em;
   max-width: 100%;
 
   @media (min-width: $large-breakpoint) {
     justify-content: flex-start;
-    margin-left: -0.25em;
+    margin-left: 2em;
   }
 }
 
